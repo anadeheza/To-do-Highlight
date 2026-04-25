@@ -3,6 +3,10 @@
   "displayName": "to-do highlighter",
   "description": "Highlights unfulfilled tasks with various colors , simple to use and pretty useful",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anadeheza/To-do-Highlight"
+  },
   "engines": {
     "vscode": "^1.103.0"
   },
